@@ -24,3 +24,8 @@ const product = {
 const{label, stock}=product
 console.log(label)
 console.log(stock)
+
+const transaction = (type,{label,stock=0} = {})=>{
+    console.log(type,label,stock)
+}
+transaction('order',product)
