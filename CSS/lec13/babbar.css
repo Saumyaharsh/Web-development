@@ -1,0 +1,36 @@
+h1{
+    font-size: smaller;
+    text-align: center;
+}
+p{
+    background-color: aquamarine;
+}
+#article1{
+    background-color: green;
+}
+.paraclass{
+    background-color: yellow;
+}
+p,article{
+    width: 500px;
+}
+p.paraclass{
+    text-align: center;
+}
+#firstpara{
+    background-color: green;
+    color: brown;
+}
+#secondpara{
+    background-color: rgb(121, 157, 73);
+
+}
+#thirdpara{
+    background-color: rgba(96, 144, 192, 0.53);
+}
+.firstclass{
+    background-color: #a56ca5c4;
+}
+.fourpara{
+    background-color: hsl(240, 100%, 50%);
+}

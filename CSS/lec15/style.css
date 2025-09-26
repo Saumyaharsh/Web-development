@@ -1,0 +1,52 @@
+*{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+h1{
+    background-color:green;
+    border: solid brown 5px;
+border-radius: 5px;
+border-top: solid yellow 5px;
+border: solid black 3px;
+width: 350px;
+text-align: center;
+height: 200px;
+padding-left: 10px;
+padding-top: 20px;
+padding-right: 30;
+padding-bottom: 15px;
+padding: 10px 20px 30px 40px;
+}
+span{
+    
+    background-color:green;
+    border: solid brown 5px;
+border-radius: 5px;
+border-top: solid yellow 5px;
+border: solid black 3px;
+width: 350px;
+text-align: center;
+height: 200px;
+
+}
+.firstpara{
+background-color: aquamarine;
+border-top: solid yellow 5px;
+border: solid black 3px;
+padding: 90px;
+margin: 90px;
+
+}
+.secondpara{
+    background-color: azure;
+    border-top: solid yellow 5px;
+border: solid black 3px;
+
+}
+.thirdpara{
+    background-color: darkmagenta;
+        border-top: solid yellow 5px;
+border: solid black 3px;
+
+}
